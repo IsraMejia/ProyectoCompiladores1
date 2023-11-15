@@ -6,7 +6,7 @@ def main():
     """
     print(intro)
     codigo = """
-            INT x = 10 ; #hola á  
+            INT x = 10 ; #hola ci
             "salu \n 2" 
             IF  MJ == 23   THEN     A=X ; 
             IMPRIMIR "HOLA MUNDO";   
